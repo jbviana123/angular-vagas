@@ -1,28 +1,39 @@
 {
-	"vagas": [{
-			"id": 1,
-			"nome": "desenvolvedor front end",
-			"foto": "foto1.jpg",
-			"descricao": "trabalhar com angular",
-			"salario": 5000
-		},
-
-		{
-			"id": 2,
-			"nome": "desenvolvedor Back end pleno",
-			"foto": "foto2.jpg",
-			"descricao": "trabalhar com Spring boot",
-			"salario": 50000
-		},
-
-		{
-			"id": 3,
-			"nome": "desenvolvedor fullstack senior",
-			"foto": "foto3.jpg",
-			"descricao": "trabalhar com angular e spring",
-			"salario": 52000
-		}
-
-	]
-
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "desenvolvedor front end",
+      "foto": "foto1.jpg",
+      "descricao": "trabalhar com angular",
+      "salario": 5000
+    },
+    {
+      "id": 2,
+      "nome": "desenvolvedor Back end pleno",
+      "foto": "foto2.jpg",
+      "descricao": "trabalhar com Spring boot",
+      "salario": 50000
+    },
+    {
+      "id": 3,
+      "nome": "desenvolvedor fullstack senior",
+      "foto": "foto3.jpg",
+      "descricao": "trabalhar com angular e spring",
+      "salario": 52000
+    },
+    {
+      "id": "4",
+      "nome": "analista junior",
+      "foto": "4",
+      "descricao": "aprender htmls",
+      "salario": "1500"
+    },
+    {
+      "id": "5",
+      "nome": "programador junior",
+      "foto": "",
+      "descricao": "programar em c",
+      "salario": "1500"
+    }
+  ]
 }
