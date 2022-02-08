@@ -1,5 +1,0 @@
-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
-
-json-server --watch vagas-db.json
-
-https://www.youtube.com/watch?v=HgTxQnvi0DI&list=PLH6YoHq5rm-OvG0W5lQBR8_JzeoWTLOm2&index=7

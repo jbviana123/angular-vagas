@@ -23,17 +23,24 @@
     },
     {
       "id": "4",
-      "nome": "analista junior",
-      "foto": "4",
-      "descricao": "aprender htmls",
-      "salario": "1500"
+      "nome": "progrador python",
+      "foto": "foto4.jpg",
+      "descricao": "trabalhar com inteligencia artificial",
+      "salario": "10000"
     },
     {
       "id": "5",
       "nome": "programador junior",
-      "foto": "",
-      "descricao": "programar em c",
-      "salario": "1500"
+      "foto": "foto5.jpg",
+      "descricao": "aprender a programar do zero",
+      "salario": "6000"
+    },
+    {
+      "id": "6",
+      "nome": "programador java",
+      "foto": "foto6.jpg",
+      "descricao": "programar em java web",
+      "salario": "15000"
     }
   ]
 }
